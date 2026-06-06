@@ -1,16 +1,43 @@
-# React + Vite
+# Business Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project is a responsive business landing page for a technology service company focused on websites, automation, dashboards, and business tools.
 
-Currently, two official plugins are available:
+## Purpose
+The purpose of this project is to demonstrate the ability to build a clean, professional website for a service-based business.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Business Problem
+Small businesses often need a clear and professional online presence that explains their services, builds trust, and encourages potential customers to take action.
 
-## React Compiler
+## Solution
+This landing page presents a technology service company with clear messaging, service sections, call-to-action buttons, and a contact section.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Responsive homepage
+- Business headline and value statement
+- Services section
+- Call-to-action buttons
+- Contact section
+- Clean layout for a service business
+- Mobile-friendly design
 
-## Expanding the ESLint configuration
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I Learned
+- Building a business-focused website layout
+- Creating responsive sections with Tailwind CSS
+- Writing clear service-based website copy
+- Structuring a landing page for conversions
+- Designing a professional front-end project
+
+## Future Improvements
+- Add contact form functionality
+- Add pricing section
+- Add client testimonials
+- Add animations
+- Add SEO metadata
+- Add deployment link
