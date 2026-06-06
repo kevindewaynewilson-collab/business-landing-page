@@ -80,7 +80,7 @@ function App() {
           <p className="text-slate-300 mb-6">
             Contact us for websites, dashboards, or automation planning.
           </p>
-          <p>Email: your-email@example.com</p>
+          <p>Email: kevindewaynewilson@gmail.com</p>
         </div>
       </section>
     </main>
